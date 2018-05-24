@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-class Solution
+public class Solution
 {
 
-    static void Main(String[] args)
+    public static void Main(String[] args)
     {
         int num = Convert.ToInt32(Console.ReadLine());
 
